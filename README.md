@@ -28,7 +28,7 @@ pip install pandas pillow
 2. Run the script to generate an image:
 
 ```bash
-python convert.py
+python main.py
 ```
 
 3. The generated table image will be saved as `output.png` in the project folder.
